@@ -1,2 +1,2 @@
 # smallAssembler
-A Assembler Project made during the Assembly Coding Course in Unicamp
+A IAS Assembler Project made during the Assembly Coding Course in Unicamp
